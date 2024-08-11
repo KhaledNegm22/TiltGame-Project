@@ -1,0 +1,3 @@
+Solvable
+Min number of moves: 12
+Sequence of moves: right, up, left, up, left, down, left, up, left, up, left, up

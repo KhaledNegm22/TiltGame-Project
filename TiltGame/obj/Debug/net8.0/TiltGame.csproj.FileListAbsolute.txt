@@ -1,0 +1,16 @@
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.GeneratedMSBuildEditorConfig.editorconfig
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.AssemblyInfoInputs.cache
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.AssemblyInfo.cs
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.csproj.CoreCompileInputs.cache
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\bin\Debug\net8.0\TiltGame.exe
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\bin\Debug\net8.0\TiltGame.deps.json
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\bin\Debug\net8.0\TiltGame.runtimeconfig.json
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\bin\Debug\net8.0\TiltGame.dll
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\bin\Debug\net8.0\TiltGame.pdb
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.dll
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\refint\TiltGame.dll
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.pdb
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.genruntimeconfig.cache
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\ref\TiltGame.dll
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\WindowsFormsApp1.Game.resources
+L:\College\Algorithm\TiltGame\[4] Tilt Game\Project\TiltGame\obj\Debug\net8.0\TiltGame.csproj.GenerateResource.cache
